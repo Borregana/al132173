@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e69258a6-410c-4337-befc-ded04f760a25" name="Default" comment="" />
+    <ignored path="TheWay.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="TheWay" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="display.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/display.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="25" selection-start="649" selection-end="649" vertical-scroll-proportion="0.625" vertical-offset="0" max-vertical-offset="13392">
+              <folding>
+                <marker date="1410191654000" expanded="true" signature="2720:2758" placeholder="SELECT * FRO..Rutas..." />
+                <marker date="1410191654000" expanded="true" signature="3572:3617" placeholder="SELECT alias..Usuarios..." />
+                <marker date="1410191654000" expanded="true" signature="4385:4429" placeholder="SELECT * FRO..Puntos..." />
+                <marker date="1410191654000" expanded="true" signature="18546:18559" placeholder="..." />
+                <marker date="1410191654000" expanded="true" signature="19377:19390" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="misrutas.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/misrutas.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="102" column="49" selection-start="4022" selection-end="4022" vertical-scroll-proportion="-5.84" vertical-offset="1486" max-vertical-offset="5104">
+              <folding>
+                <marker date="1410191145000" expanded="true" signature="3009:3056" placeholder="SELECT * FRO..Rutas..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vistaPublica.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vistaPublica.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="68" column="0" selection-start="2128" selection-end="2128" vertical-scroll-proportion="37.64706" vertical-offset="3008" max-vertical-offset="7968">
+              <folding>
+                <element signature="e#11417#11453#0" expanded="true" />
+                <marker date="1410190683000" expanded="true" signature="754:792" placeholder="SELECT * FRO..Rutas..." />
+                <marker date="1410190683000" expanded="true" signature="1598:1643" placeholder="SELECT alias..Usuarios..." />
+                <marker date="1410190683000" expanded="true" signature="2369:2413" placeholder="SELECT * FRO..Puntos..." />
+                <marker date="1410190683000" expanded="true" signature="3217:3266" placeholder="SELECT * FRO..Comentarios..." />
+                <marker date="1410190683000" expanded="true" signature="3779:3827" placeholder="SELECT alias..Usuarios..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/estilos.css" />
+        <option value="$PROJECT_DIR$/proc.php" />
+        <option value="$PROJECT_DIR$/ajaxBuscador.js" />
+        <option value="$PROJECT_DIR$/FuncionBuscar.php" />
+        <option value="$PROJECT_DIR$/welcome.php" />
+        <option value="$PROJECT_DIR$/markerId.php" />
+        <option value="$PROJECT_DIR$/validaruta.php" />
+        <option value="$PROJECT_DIR$/buscaRutas.php" />
+        <option value="$PROJECT_DIR$/edit2.php" />
+        <option value="$PROJECT_DIR$/editUser3.php" />
+        <option value="$PROJECT_DIR$/editUser2.php" />
+        <option value="$PROJECT_DIR$/display2.php" />
+        <option value="$PROJECT_DIR$/.php" />
+        <option value="$PROJECT_DIR$/kml.php" />
+        <option value="$PROJECT_DIR$/js/drawing.js" />
+        <option value="$PROJECT_DIR$/js/readkmlFile.js" />
+        <option value="$PROJECT_DIR$/js/kmlFile.js" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/deleteAmigo.php" />
+        <option value="$PROJECT_DIR$/deleteComment.php" />
+        <option value="$PROJECT_DIR$/deleteKml.php" />
+        <option value="$PROJECT_DIR$/deletePoint.php" />
+        <option value="$PROJECT_DIR$/deleteRoute.php" />
+        <option value="$PROJECT_DIR$/deleteUser.php" />
+        <option value="$PROJECT_DIR$/editUser.php" />
+        <option value="$PROJECT_DIR$/misRutas.php" />
+        <option value="$PROJECT_DIR$/saveComentario.php" />
+        <option value="$PROJECT_DIR$/saveKml.php" />
+        <option value="$PROJECT_DIR$/savePunto.php" />
+        <option value="$PROJECT_DIR$/validar.php" />
+        <option value="$PROJECT_DIR$/register.php" />
+        <option value="$PROJECT_DIR$/saveRoute.php" />
+        <option value="$PROJECT_DIR$/connect.php" />
+        <option value="$PROJECT_DIR$/vistaRegister.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/soloAmigos.php" />
+        <option value="$PROJECT_DIR$/paraTodos.php" />
+        <option value="$PROJECT_DIR$/despublicar.php" />
+        <option value="$PROJECT_DIR$/publicar.php" />
+        <option value="$PROJECT_DIR$/Buscador.php" />
+        <option value="$PROJECT_DIR$/edit.php" />
+        <option value="$PROJECT_DIR$/saveImgPoint.php" />
+        <option value="$PROJECT_DIR$/saveVideoPoint.php" />
+        <option value="$PROJECT_DIR$/saveAmigo.php" />
+        <option value="$PROJECT_DIR$/edituser.php" />
+        <option value="$PROJECT_DIR$/rutasAmigo.php" />
+        <option value="$PROJECT_DIR$/datosAmigo.php" />
+        <option value="$PROJECT_DIR$/copiaRoute.php" />
+        <option value="$PROJECT_DIR$/vistaPublica.php" />
+        <option value="$PROJECT_DIR$/misrutas.php" />
+        <option value="$PROJECT_DIR$/display.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="al132173" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="al132173" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="al132173" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="fileColors" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FullScreen" value="true" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e69258a6-410c-4337-befc-ded04f760a25" name="Default" comment="" />
+      <created>1405612822920</created>
+      <updated>1405612822920</updated>
+    </task>
+    <task id="LOCAL-00001" summary="segon commit desde phpstorm">
+      <created>1405953594296</created>
+      <updated>1405953594296</updated>
+    </task>
+    <task id="LOCAL-00002" summary="segon commit desde phpstorm&#10;">
+      <created>1405953999956</created>
+      <updated>1405953999956</updated>
+    </task>
+    <task id="LOCAL-00003" summary="tirando">
+      <created>1406043214810</created>
+      <updated>1406043214810</updated>
+    </task>
+    <task id="LOCAL-00004" summary="register funciona&#10;">
+      <created>1406046836701</created>
+      <updated>1406046836701</updated>
+    </task>
+    <task id="LOCAL-00005" summary="edit casi">
+      <created>1406049278851</created>
+      <updated>1406049278851</updated>
+    </task>
+    <task id="LOCAL-00006" summary="guardo lineas, punto y aparecen los infowindows :)">
+      <created>1406111927783</created>
+      <updated>1406111927783</updated>
+    </task>
+    <task id="LOCAL-00007" summary="arreglos varios">
+      <created>1406117711970</created>
+      <updated>1406117711970</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Ya funciona el login!!!">
+      <created>1406376793584</created>
+      <updated>1406376793584</updated>
+    </task>
+    <task id="LOCAL-00009" summary="las rutas y los infowindows se guardan correctamente&#10;">
+      <created>1406556628391</created>
+      <updated>1406556628391</updated>
+    </task>
+    <task id="LOCAL-00010" summary="las rutas y los infowindows se guardan correctamente&#10;">
+      <created>1406556643075</created>
+      <updated>1406556643075</updated>
+    </task>
+    <task id="LOCAL-00011" summary="añadida restriccion es sumbitPoint">
+      <created>1406556923158</created>
+      <updated>1406556923158</updated>
+    </task>
+    <task id="LOCAL-00012" summary="las rutas se crean o se modifican, el edit funciona dinamica y correctamente">
+      <created>1406566142813</created>
+      <updated>1406566142813</updated>
+    </task>
+    <task id="LOCAL-00013" summary="los infowindow se guardan enteros y correctamente">
+      <created>1406633416717</created>
+      <updated>1406633416717</updated>
+    </task>
+    <task id="LOCAL-00014" summary="los puntos de interes se crean y borran correctamente">
+      <created>1406739789751</created>
+      <updated>1406739789751</updated>
+    </task>
+    <task id="LOCAL-00015" summary="los punto y las rutas se modifican y se guardan bien, excepto que si borras varios puntos el ultimo no se borra.">
+      <created>1406817465899</created>
+      <updated>1406817465899</updated>
+    </task>
+    <task id="LOCAL-00016" summary="logos">
+      <created>1406817485486</created>
+      <updated>1406817485486</updated>
+    </task>
+    <task id="LOCAL-00017" summary="ya se muestra la ruta y los marcadores en la vista publica de las rutas">
+      <created>1406830667192</created>
+      <updated>1406830667192</updated>
+    </task>
+    <task id="LOCAL-00018" summary="la vista publica funciona con comentarios y misRutas ya tiene operativo el boton de vista publica">
+      <created>1406993060166</created>
+      <updated>1406993060166</updated>
+    </task>
+    <task id="LOCAL-00019" summary="corregido error de colision del idruta entre el ajax del comentario y el post de misrutas">
+      <created>1407161347072</created>
+      <updated>1407161347072</updated>
+    </task>
+    <task id="LOCAL-00020" summary="el buscador funciona correctamente&#10;">
+      <created>1407173781289</created>
+      <updated>1407173781289</updated>
+    </task>
+    <task id="LOCAL-00021" summary="al crear un comentario se actualiza la nota media">
+      <created>1407175462328</created>
+      <updated>1407175462328</updated>
+    </task>
+    <task id="LOCAL-00022" summary="la puntuacion sale en misrutas">
+      <created>1407230189022</created>
+      <updated>1407230189022</updated>
+    </task>
+    <task id="LOCAL-00023" summary="al crear ruta se guarda la fecha actual correctamente&#10;">
+      <created>1407236733247</created>
+      <updated>1407236733247</updated>
+    </task>
+    <task id="LOCAL-00024" summary="boton copiar ruta funciona correctamente y hay solucion para el tiempo de ruta">
+      <created>1407257235042</created>
+      <updated>1407257235042</updated>
+    </task>
+    <task id="LOCAL-00025" summary="en el perfil de usuario se puede anyadir avatar">
+      <created>1407334944226</created>
+      <updated>1407334944226</updated>
+    </task>
+    <task id="LOCAL-00026" summary="ahora el display tambien puede editar rutas, pero falta solucionar el poder subir imagenes y borrar marcadores&#10;he anyadido un scrollbar en mis rutas">
+      <created>1407344337805</created>
+      <updated>1407344337805</updated>
+    </task>
+    <task id="LOCAL-00027" summary="detalle en los infowindows por si no existe la imagen">
+      <created>1407344631766</created>
+      <updated>1407344631766</updated>
+    </task>
+    <task id="LOCAL-00028" summary="funcions de publicar i despublicar, detalls de misrutas">
+      <created>1407404680388</created>
+      <updated>1407404680388</updated>
+    </task>
+    <task id="LOCAL-00029" summary="borrar rutes ok&#10;">
+      <created>1407406609047</created>
+      <updated>1407406609047</updated>
+    </task>
+    <task id="LOCAL-00030" summary="los comentarios se pueden borrar i ahora el form para guardar es con php no con js">
+      <created>1407410363821</created>
+      <updated>1407410363821</updated>
+    </task>
+    <task id="LOCAL-00031" summary="funcionalidad de subir url con archivo kml y se guarda en la BD">
+      <created>1407588439897</created>
+      <updated>1407588439897</updated>
+    </task>
+    <task id="LOCAL-00032" summary="se puede eliminar una capa kml cargada anteriormente, el boton borrar comentario ya no aparece en todos, solo en los del usuario en sesion, &#10;ahora el mapa se crea centrado en el primer marcador o el primer punto del recorrido(si existe)">
+      <created>1407687907012</created>
+      <updated>1407687907012</updated>
+    </task>
+    <task id="LOCAL-00033" summary="los botones de la barra superior ahora guardan coherencia de orden y colores en las distintas vistas">
+      <created>1407688996910</created>
+      <updated>1407688996910</updated>
+    </task>
+    <task id="LOCAL-00034" summary="la funcinalidad de amistades ja esta (basico) y solucionado error al copiar rutas">
+      <created>1408209307053</created>
+      <updated>1408209307053</updated>
+    </task>
+    <task id="LOCAL-00035" summary="corregido el tamaño de la imagen de cabecera&#10;">
+      <created>1408209788875</created>
+      <updated>1408209788875</updated>
+    </task>
+    <task id="LOCAL-00036" summary="los usuarios pueden ver las rutas de sus amigos">
+      <created>1408214269077</created>
+      <updated>1408214269077</updated>
+    </task>
+    <task id="LOCAL-00037" summary="solucionado un error con el edit (al guardar la ruta la polyline se perdia)">
+      <created>1408296452148</created>
+      <updated>1408296452148</updated>
+    </task>
+    <task id="LOCAL-00038" summary="ya se pueden cargar imagenes en los puntos de interes, pero solo al editar">
+      <created>1408388908966</created>
+      <updated>1408388908966</updated>
+    </task>
+    <task id="LOCAL-00039" summary="los puntos ahora refrescan la pagina al ser guardados, pero esto soluciona el guardar las imagenes i que se puedan ver los datos del punto al cerrar la infowindow">
+      <created>1408457105544</created>
+      <updated>1408457105544</updated>
+    </task>
+    <task id="LOCAL-00040" summary="añadido boton que redirecciona el mapa a la ciudad deseada">
+      <created>1408460662127</created>
+      <updated>1408460662127</updated>
+    </task>
+    <task id="LOCAL-00041" summary="display centra el mapa correctamente dependiendo del contenido del mapa">
+      <created>1408532893566</created>
+      <updated>1408532893566</updated>
+    </task>
+    <task id="LOCAL-00042" summary="en vistapublica el mapa se redirecciona correctamente dependiendo de los datos en la ruta">
+      <created>1408534156741</created>
+      <updated>1408534156741</updated>
+    </task>
+    <task id="LOCAL-00043" summary="redefinda la direccion por defecto">
+      <created>1408534559811</created>
+      <updated>1408534559811</updated>
+    </task>
+    <task id="LOCAL-00044" summary="añadidas instrucciones de uso, imagen explicativa en index y player de youtube en los infowindows de vista publica">
+      <created>1408807867053</created>
+      <updated>1408807867053</updated>
+    </task>
+    <task id="LOCAL-00045" summary="ya se pueden guardar ids de videos de youtube">
+      <created>1409142946154</created>
+      <updated>1409142946154</updated>
+    </task>
+    <task id="LOCAL-00046" summary="funcionalidad de eliminar cuenta, creado connect i sustituida la conexion a la BD por el include al archivo. FINIQUITAT EL PROJECTE (part.1)">
+      <created>1409153959834</created>
+      <updated>1409153959834</updated>
+    </task>
+    <task id="LOCAL-00047" summary="first fail">
+      <created>1409154048983</created>
+      <updated>1409154048983</updated>
+    </task>
+    <task id="LOCAL-00048" summary="creat arxiu connect y modificar el register per que siga mes segur">
+      <created>1409573984392</created>
+      <updated>1409573984392</updated>
+    </task>
+    <task id="LOCAL-00049" summary="corregit el error que no guardaba la linea al editar">
+      <created>1409583860187</created>
+      <updated>1409583860187</updated>
+    </task>
+    <task id="LOCAL-00050" summary="corregido un error de lineas en display">
+      <created>1409659520426</created>
+      <updated>1409659520426</updated>
+    </task>
+    <task id="LOCAL-00051" summary="corregido un error de lineas en display&#10;">
+      <created>1409699402472</created>
+      <updated>1409699402472</updated>
+    </task>
+    <task id="LOCAL-00052" summary="el titol de la pagina del buscador a sigut acutalitzat">
+      <created>1409703308814</created>
+      <updated>1409703308814</updated>
+    </task>
+    <task id="LOCAL-00053" summary=" corregit error en les instruccions cambiat el nom per 'Ayuda' y reubicat">
+      <created>1409832203342</created>
+      <updated>1409832203342</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31557378" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20840065" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32465753" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26979" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="los comentarios se pueden borrar i ahora el form para guardar es con php no con js" />
+    <MESSAGE value="funcionalidad de subir url con archivo kml y se guarda en la BD" />
+    <MESSAGE value="se puede eliminar una capa kml cargada anteriormente, el boton borrar comentario ya no aparece en todos, solo en los del usuario en sesion, &#10;ahora el mapa se crea centrado en el primer marcador o el primer punto del recorrido(si existe)" />
+    <MESSAGE value="los botones de la barra superior ahora guardan coherencia de orden y colores en las distintas vistas" />
+    <MESSAGE value="la funcinalidad de amistades ja esta (basico) y solucionado error al copiar rutas" />
+    <MESSAGE value="corregido el tamaño de la imagen de cabecera&#10;" />
+    <MESSAGE value="los usuarios pueden ver las rutas de sus amigos" />
+    <MESSAGE value="solucionado un error con el edit (al guardar la ruta la polyline se perdia)" />
+    <MESSAGE value="ya se pueden cargar imagenes en los puntos de interes, pero solo al editar" />
+    <MESSAGE value="los puntos ahora refrescan la pagina al ser guardados, pero esto soluciona el guardar las imagenes i que se puedan ver los datos del punto al cerrar la infowindow" />
+    <MESSAGE value="añadido boton que redirecciona el mapa a la ciudad deseada" />
+    <MESSAGE value="display centra el mapa correctamente dependiendo del contenido del mapa" />
+    <MESSAGE value="en vistapublica el mapa se redirecciona correctamente dependiendo de los datos en la ruta" />
+    <MESSAGE value="redefinda la direccion por defecto" />
+    <MESSAGE value="añadidas instrucciones de uso, imagen explicativa en index y player de youtube en los infowindows de vista publica" />
+    <MESSAGE value="ya se pueden guardar ids de videos de youtube" />
+    <MESSAGE value="funcionalidad de eliminar cuenta, creado connect i sustituida la conexion a la BD por el include al archivo. FINIQUITAT EL PROJECTE (part.1)" />
+    <MESSAGE value="first fail" />
+    <MESSAGE value="creat arxiu connect y modificar el register per que siga mes segur" />
+    <MESSAGE value="corregit el error que no guardaba la linea al editar" />
+    <MESSAGE value="corregido un error de lineas en display" />
+    <MESSAGE value="corregido un error de lineas en display&#10;" />
+    <MESSAGE value="el titol de la pagina del buscador a sigut acutalitzat" />
+    <MESSAGE value=" corregit error en les instruccions cambiat el nom per 'Ayuda' y reubicat" />
+    <MESSAGE value="nuevo repositorio" />
+    <option name="LAST_COMMIT_MESSAGE" value="nuevo repositorio" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vistaPublica.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="98" column="24" selection-start="3271" selection-end="3429" vertical-scroll-proportion="0.0" vertical-offset="1568" max-vertical-offset="2992" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/savePunto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="60" selection-start="830" selection-end="830" vertical-scroll-proportion="0.0" vertical-offset="400" max-vertical-offset="608" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistaRegister.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="95" column="40" selection-start="4691" selection-end="4691" vertical-scroll-proportion="0.0" vertical-offset="1112" max-vertical-offset="2208" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/misrutas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="666" selection-end="666" vertical-scroll-proportion="0.0" vertical-offset="464" max-vertical-offset="2800" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edituser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="127" column="40" selection-start="6158" selection-end="6158" vertical-scroll-proportion="0.0" vertical-offset="2032" max-vertical-offset="2640" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0" vertical-offset="112" max-vertical-offset="688" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/drawing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="143" column="10" selection-start="5882" selection-end="5882" vertical-scroll-proportion="0.0" vertical-offset="1968" max-vertical-offset="2768" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saveRoute.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0" vertical-offset="128" max-vertical-offset="464" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/drawing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="48" selection-start="1234" selection-end="1234" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3168" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/savePunto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="240" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saveRoute.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="96" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saveRoute.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="96" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.form.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="20528" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/drawing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="195" column="7" selection-start="8048" selection-end="8048" vertical-scroll-proportion="4.088534" vertical-offset="303" max-vertical-offset="3616" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/kmlFile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="368" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="4" selection-start="94" selection-end="169" vertical-scroll-proportion="-4.48" vertical-offset="0" max-vertical-offset="272" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deleteAmigo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="131" selection-end="131" vertical-scroll-proportion="-6.4" vertical-offset="0" max-vertical-offset="512" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deleteComment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="153" selection-end="153" vertical-scroll-proportion="-6.4" vertical-offset="0" max-vertical-offset="496" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deleteKml.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="153" selection-end="153" vertical-scroll-proportion="-6.4" vertical-offset="0" max-vertical-offset="464" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deletePoint.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="151" selection-end="151" vertical-scroll-proportion="-3.84" vertical-offset="0" max-vertical-offset="368" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deleteRoute.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="157" selection-end="157" vertical-scroll-proportion="-6.4" vertical-offset="0" max-vertical-offset="528" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saveComentario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="131" selection-end="131" vertical-scroll-proportion="-3.4" vertical-offset="75" max-vertical-offset="752" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saveKml.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="154" selection-end="154" vertical-scroll-proportion="-3.84" vertical-offset="0" max-vertical-offset="416" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/savePunto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="151" selection-end="151" vertical-scroll-proportion="-3.84" vertical-offset="0" max-vertical-offset="992" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="151" selection-end="151" vertical-scroll-proportion="0.22974963" vertical-offset="20" max-vertical-offset="720" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="24" selection-start="1490" selection-end="1490" vertical-scroll-proportion="0.6927622" vertical-offset="187" max-vertical-offset="864" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saveRoute.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="5" selection-start="3019" selection-end="3019" vertical-scroll-proportion="-48.0" vertical-offset="0" max-vertical-offset="1360" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="106" column="79" selection-start="5011" selection-end="5011" vertical-scroll-proportion="2.5465465" vertical-offset="0" max-vertical-offset="1984">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistaRegister.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="45" selection-start="2075" selection-end="2075" vertical-scroll-proportion="0.0" vertical-offset="864" max-vertical-offset="2224">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paraTodos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="41" selection-start="363" selection-end="363" vertical-scroll-proportion="0.2827688" vertical-offset="0" max-vertical-offset="679" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publicar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="1" selection-start="411" selection-end="411" vertical-scroll-proportion="-9.6" vertical-offset="0" max-vertical-offset="336" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/despublicar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="41" selection-start="359" selection-end="359" vertical-scroll-proportion="-7.68" vertical-offset="0" max-vertical-offset="352" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soloAmigos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="1" selection-start="415" selection-end="415" vertical-scroll-proportion="-9.6" vertical-offset="0" max-vertical-offset="336" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saveVideoPoint.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="25" selection-start="1940" selection-end="1940" vertical-scroll-proportion="-15.36" vertical-offset="528" max-vertical-offset="1328">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saveImgPoint.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="0" selection-start="1123" selection-end="1123" vertical-scroll-proportion="0.338257" vertical-offset="347" max-vertical-offset="1024">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saveAmigo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="82" selection-start="511" selection-end="511" vertical-scroll-proportion="-12.16" vertical-offset="0" max-vertical-offset="624">
+          <folding>
+            <marker date="1410183664000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..Usuarios..." />
+            <marker date="1410183664000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edituser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="53" selection-start="636" selection-end="636" vertical-scroll-proportion="0.6006006" vertical-offset="0" max-vertical-offset="4592">
+          <folding>
+            <marker date="1410183788000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..Usuarios..." />
+            <marker date="1410183788000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..Grupos..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rutasAmigo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="0" selection-start="961" selection-end="961" vertical-scroll-proportion="0.89543444" vertical-offset="80" max-vertical-offset="784">
+          <folding>
+            <marker date="1410183824000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..Rutas..." />
+            <marker date="1410183824000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1410183824000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/copiaRoute.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="82" column="0" selection-start="3711" selection-end="3711" vertical-scroll-proportion="0.8318318" vertical-offset="678" max-vertical-offset="1344">
+          <folding>
+            <marker date="1410184262000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..Rutas..." />
+            <marker date="1410184262000" expanded="true" signature="-1:-1" placeholder="UPDATE Rutas..." />
+            <marker date="1410184262000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1410184262000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..Rutas..." />
+            <marker date="1410184262000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..Puntos..." />
+            <marker date="1410184262000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datosAmigo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="0" selection-start="1007" selection-end="1007" vertical-scroll-proportion="0.85861564" vertical-offset="185" max-vertical-offset="864">
+          <folding>
+            <marker date="1410184246000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..Usuarios..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="301" selection-end="301" vertical-scroll-proportion="0.2827688" vertical-offset="0" max-vertical-offset="679">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buscador.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="14" selection-start="1593" selection-end="1593" vertical-scroll-proportion="-6.231231" vertical-offset="4902" max-vertical-offset="5568">
+          <folding>
+            <marker date="1410175330000" expanded="true" signature="-1:-1" placeholder="SELECT id FR..Usuarios..." />
+            <marker date="1410175330000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..Grupos..." />
+            <marker date="1410175330000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..Usuarios..." />
+            <marker date="1410175330000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..Usuarios..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deleteUser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="163" selection-end="163" vertical-scroll-proportion="0.23564065" vertical-offset="0" max-vertical-offset="679">
+          <folding>
+            <marker date="1409153883000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..Usuarios..." />
+            <marker date="1409153883000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="22" selection-start="948" selection-end="975" vertical-scroll-proportion="0.70692194" vertical-offset="0" max-vertical-offset="976">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/smartadmin-rtl.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="283" column="16" selection-start="6374" selection-end="6378" vertical-scroll-proportion="2.305263" vertical-offset="2995" max-vertical-offset="16784">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/invoice.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.1363637" vertical-offset="1504" max-vertical-offset="2208">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/lockscreen.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.038348082" vertical-offset="26" max-vertical-offset="1264">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/smartadmin-production.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.039097745" vertical-offset="26" max-vertical-offset="832">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/misrutas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="102" column="49" selection-start="4022" selection-end="4022" vertical-scroll-proportion="-5.84" vertical-offset="1486" max-vertical-offset="5104">
+          <folding>
+            <marker date="1410191145000" expanded="true" signature="3009:3056" placeholder="SELECT * FRO..Rutas..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistaPublica.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="0" selection-start="2128" selection-end="2128" vertical-scroll-proportion="37.64706" vertical-offset="3008" max-vertical-offset="7968">
+          <folding>
+            <element signature="e#11417#11453#0" expanded="true" />
+            <marker date="1410190683000" expanded="true" signature="754:792" placeholder="SELECT * FRO..Rutas..." />
+            <marker date="1410190683000" expanded="true" signature="1598:1643" placeholder="SELECT alias..Usuarios..." />
+            <marker date="1410190683000" expanded="true" signature="2369:2413" placeholder="SELECT * FRO..Puntos..." />
+            <marker date="1410190683000" expanded="true" signature="3217:3266" placeholder="SELECT * FRO..Comentarios..." />
+            <marker date="1410190683000" expanded="true" signature="3779:3827" placeholder="SELECT alias..Usuarios..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/display.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="25" selection-start="649" selection-end="649" vertical-scroll-proportion="0.625" vertical-offset="0" max-vertical-offset="13392">
+          <folding>
+            <marker date="1410191654000" expanded="true" signature="2720:2758" placeholder="SELECT * FRO..Rutas..." />
+            <marker date="1410191654000" expanded="true" signature="3572:3617" placeholder="SELECT alias..Usuarios..." />
+            <marker date="1410191654000" expanded="true" signature="4385:4429" placeholder="SELECT * FRO..Puntos..." />
+            <marker date="1410191654000" expanded="true" signature="18546:18559" placeholder="..." />
+            <marker date="1410191654000" expanded="true" signature="19377:19390" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
